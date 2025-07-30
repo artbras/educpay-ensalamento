@@ -3,8 +3,8 @@
  * Plugin Name:       WC Educpay Integration
  * Plugin URI:        https://ab.rio.br/
  * Description:       Plugin de Ensalamento WooCommerce (Educpay).
- * Version:           1.5.0 // VERSÃO ATUALIZADA
- * Author:            Agência AB Rio
+ * Version:           1.5.1
+ * Author:            AB Rio Digital
  * Author URI:        https://wa.me/5521991242544
  * Requires at least: 6.4
  * Requires PHP:      7.4
